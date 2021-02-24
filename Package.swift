@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
   name: "DrawerKit",
   platforms: [
-    .iOS(.v10)
+    .iOS(.v14)
   ],
   products: [
     .library(
