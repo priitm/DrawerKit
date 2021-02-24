@@ -1,0 +1,241 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DrawerGeometry"
+- "=="
+provides-nominal:
+- "9DrawerKit0A8GeometryV"
+provides-member:
+- ["9DrawerKit0A8GeometryV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "CGFloat"
+- "CGRect"
+- "DrawerGeometry"
+- "Equatable"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "UIApplication"
+- "UIInterfaceOrientation"
+- !private "userInterfaceOrientation"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["SK", ""]
+- !private ["So6CGRectV", "size"]
+- !private ["So6CGSizeV", "height"]
+- !private ["So6CGSizeV", "width"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "statusBarFrame"]
+- !private ["s7CVarArgP", "statusBarOrientation"]
+- !private ["Sl", ""]
+- !private ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "statusBarFrame"]
+- !private ["s28CustomDebugStringConvertibleP", "statusBarOrientation"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "statusBarFrame"]
+- !private ["s23CustomStringConvertibleP", "statusBarOrientation"]
+- !private ["Se", "height"]
+- !private ["Se", "size"]
+- !private ["Se", "width"]
+- ["9DrawerKit0A8GeometryV", "=="]
+- ["9DrawerKit0A8GeometryV", "Bool"]
+- ["9DrawerKit0A8GeometryV", "CGFloat"]
+- ["9DrawerKit0A8GeometryV", "CGRect"]
+- ["9DrawerKit0A8GeometryV", "DrawerGeometry"]
+- !private ["9DrawerKit0A8GeometryV", "UIApplication"]
+- ["9DrawerKit0A8GeometryV", "UIInterfaceOrientation"]
+- ["9DrawerKit0A8GeometryV", ""]
+- ["9DrawerKit0A8GeometryV", "containerBounds"]
+- ["9DrawerKit0A8GeometryV", "endingFrame"]
+- ["9DrawerKit0A8GeometryV", "heightOfPartiallyExpandedDrawer"]
+- ["9DrawerKit0A8GeometryV", "init"]
+- ["9DrawerKit0A8GeometryV", "navigationBarHeight"]
+- ["9DrawerKit0A8GeometryV", "startingFrame"]
+- ["9DrawerKit0A8GeometryV", "statusBarHeight"]
+- ["9DrawerKit0A8GeometryV", "userInterfaceOrientation"]
+- !private ["SE", "height"]
+- !private ["SE", "size"]
+- !private ["SE", "width"]
+- ["SQ", "=="]
+- !private ["SQ", "UIApplication"]
+- ["SQ", ""]
+- !private ["SQ", "containerBounds"]
+- !private ["SQ", "endingFrame"]
+- !private ["SQ", "height"]
+- !private ["SQ", "heightOfPartiallyExpandedDrawer"]
+- ["SQ", "landscapeLeft"]
+- ["SQ", "landscapeRight"]
+- !private ["SQ", "navigationBarHeight"]
+- ["SQ", "portrait"]
+- ["SQ", "portraitUpsideDown"]
+- !private ["SQ", "shared"]
+- !private ["SQ", "size"]
+- !private ["SQ", "startingFrame"]
+- !private ["SQ", "statusBarFrame"]
+- !private ["SQ", "statusBarOrientation"]
+- ["SQ", "unknown"]
+- !private ["SQ", "userInterfaceOrientation"]
+- !private ["SQ", "width"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "IntegerLiteralType"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SF", "=="]
+- !private ["SH", ""]
+- ["SH", "landscapeLeft"]
+- ["SH", "landscapeRight"]
+- ["SH", "portrait"]
+- ["SH", "portraitUpsideDown"]
+- !private ["SH", "shared"]
+- !private ["SH", "statusBarFrame"]
+- !private ["SH", "statusBarOrientation"]
+- ["SH", "unknown"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", ""]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "statusBarFrame"]
+- !private ["So8NSObjectC", "statusBarOrientation"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "shared"]
+- !private ["So8NSObjectP", "statusBarFrame"]
+- !private ["So8NSObjectP", "statusBarOrientation"]
+- !private ["Sj", ""]
+- ["SY", "landscapeLeft"]
+- ["SY", "landscapeRight"]
+- ["SY", "portrait"]
+- ["SY", "portraitUpsideDown"]
+- ["SY", "unknown"]
+- !private ["ST", ""]
+- !private ["s13SignedNumericP", ""]
+- !private ["Sx", ""]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["So13UIApplicationC", "shared"]
+- !private ["So13UIApplicationC", "statusBarFrame"]
+- !private ["So13UIApplicationC", "statusBarOrientation"]
+- ["So22UIInterfaceOrientationV", "landscapeLeft"]
+- ["So22UIInterfaceOrientationV", "landscapeRight"]
+- ["So22UIInterfaceOrientationV", "portrait"]
+- ["So22UIInterfaceOrientationV", "portraitUpsideDown"]
+- ["So22UIInterfaceOrientationV", "unknown"]
+- !private ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "shared"]
+- !private ["So30UIPasteConfigurationSupportingP", "statusBarFrame"]
+- !private ["So30UIPasteConfigurationSupportingP", "statusBarOrientation"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "shared"]
+- !private ["So11UIResponderC", "statusBarFrame"]
+- !private ["So11UIResponderC", "statusBarOrientation"]
+- !private ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "shared"]
+- !private ["So30UIResponderStandardEditActionsP", "statusBarFrame"]
+- !private ["So30UIResponderStandardEditActionsP", "statusBarOrientation"]
+- !private ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "shared"]
+- !private ["So23UIUserActivityRestoringP", "statusBarFrame"]
+- !private ["So23UIUserActivityRestoringP", "statusBarOrientation"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "height"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "size"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "width"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusBarFrame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusBarOrientation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "shared"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "statusBarFrame"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "statusBarOrientation"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- "9DrawerKit0A8GeometryV"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SF"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- "SY"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So13UIApplicationC"
+- "So22UIInterfaceOrientationV"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So23UIUserActivityRestoringP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b40e5021cb0e2cf84d597750b714e1a3"

@@ -1,0 +1,197 @@
+{
+  "": {
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/master.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/AnimationController.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/AnimationController.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/AnimationController.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/AnimationController~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/AnimationController.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/AnimationSupport.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/AnimationSupport.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/AnimationSupport.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/AnimationSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/AnimationSupport.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/DrawerDisplayController+Extensions.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/DrawerDisplayController+Extensions.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/DrawerDisplayController+Extensions.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/DrawerDisplayController+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/DrawerDisplayController+Extensions.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/GeometryEvaluator.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/GeometryEvaluator.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/GeometryEvaluator.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/GeometryEvaluator~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/GeometryEvaluator.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/InteractionController.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/InteractionController.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/InteractionController.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/InteractionController~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/InteractionController.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationContainerView.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationContainerView.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationContainerView.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationContainerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationContainerView.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationController+Animation.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Animation.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Animation.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Animation~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Animation.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationController+Configuration.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Configuration.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Configuration.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Configuration~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Configuration.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationController+Gestures.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Gestures.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Gestures.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Gestures~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Gestures.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationController+Properties.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Properties.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Properties.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Properties~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Properties.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationController+PullToDismiss.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+PullToDismiss.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+PullToDismiss.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+PullToDismiss~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+PullToDismiss.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationController+Setup.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Setup.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Setup.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Setup~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Setup.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationController+Utilities.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Utilities.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Utilities.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController+Utilities.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Internal API/PresentationController.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Internal API/PresentationController.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/DrawerDisplayController.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/DrawerDisplayController.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/DrawerDisplayController.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/DrawerDisplayController~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/DrawerDisplayController.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/DrawerNotifications.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/DrawerNotifications.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/DrawerNotifications.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/DrawerNotifications~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/DrawerNotifications.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Extensions/DrawerAnimationInfo+Configuration.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerAnimationInfo+Configuration.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerAnimationInfo+Configuration.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerAnimationInfo+Configuration~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerAnimationInfo+Configuration.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Extensions/DrawerAnimationInfo+Geometry.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerAnimationInfo+Geometry.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerAnimationInfo+Geometry.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerAnimationInfo+Geometry~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerAnimationInfo+Geometry.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Extensions/DrawerDisplayController+Configuration.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerDisplayController+Configuration.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerDisplayController+Configuration.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerDisplayController+Configuration~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Extensions/DrawerDisplayController+Configuration.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Notifications.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Notifications.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Notifications.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Notifications~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Notifications.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Protocols/DrawerAnimationParticipant.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerAnimationParticipant.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerAnimationParticipant.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerAnimationParticipant~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerAnimationParticipant.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Protocols/DrawerCoordinating.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerCoordinating.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerCoordinating.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerCoordinating~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerCoordinating.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Protocols/DrawerPresentable.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerPresentable.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerPresentable.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerPresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerPresentable.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Protocols/DrawerPresentationControlling.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerPresentationControlling.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerPresentationControlling.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerPresentationControlling~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Protocols/DrawerPresentationControlling.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Structs/DrawerAnimationActions.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerAnimationActions.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerAnimationActions.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerAnimationActions~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerAnimationActions.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Structs/DrawerAnimationInfo.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerAnimationInfo.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerAnimationInfo.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerAnimationInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerAnimationInfo.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Structs/DrawerBorderConfiguration.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerBorderConfiguration.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerBorderConfiguration.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerBorderConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerBorderConfiguration.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Structs/DrawerConfiguration.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerConfiguration.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerConfiguration.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerConfiguration.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Structs/DrawerGeometry.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerGeometry.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerGeometry.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerGeometry~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerGeometry.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Structs/DrawerShadowConfiguration.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerShadowConfiguration.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerShadowConfiguration.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerShadowConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerShadowConfiguration.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Structs/DrawerState.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerState.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerState.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerState~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/DrawerState.swiftdeps"
+  },
+  "/Users/priit/Projects/DrawerKit/DrawerKit/DrawerKit/Public API/Structs/HandleViewConfiguration.swift": {
+    "dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/HandleViewConfiguration.d",
+    "object": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/HandleViewConfiguration.swift.o",
+    "swiftmodule": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/HandleViewConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/Public API/Structs/HandleViewConfiguration.swiftdeps"
+  }
+}

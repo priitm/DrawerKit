@@ -18,7 +18,7 @@ let package = Package(
       dependencies: [],
       path: "DrawerKit/DrawerKit/",
       exclude: ["Info.plist"],
-    cSettings: [
+      cSettings: [
         .headerSearchPath("."),
       ]
     ),

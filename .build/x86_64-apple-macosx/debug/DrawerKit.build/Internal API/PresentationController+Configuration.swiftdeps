@@ -1,0 +1,386 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["9DrawerKit22PresentationControllerC", ""]
+- ["9DrawerKit22PresentationControllerC", "totalDurationInSeconds"]
+- ["9DrawerKit22PresentationControllerC", "durationIsProportionalToDistanceTraveled"]
+- ["9DrawerKit22PresentationControllerC", "timingCurveProvider"]
+- ["9DrawerKit22PresentationControllerC", "fullExpansionBehaviour"]
+- ["9DrawerKit22PresentationControllerC", "supportsPartialExpansion"]
+- ["9DrawerKit22PresentationControllerC", "dismissesInStages"]
+- ["9DrawerKit22PresentationControllerC", "flickSpeedThreshold"]
+- ["9DrawerKit22PresentationControllerC", "upperMarkGap"]
+- ["9DrawerKit22PresentationControllerC", "lowerMarkGap"]
+- ["9DrawerKit22PresentationControllerC", "maximumCornerRadius"]
+- ["9DrawerKit22PresentationControllerC", "isDrawerDraggable"]
+- ["9DrawerKit22PresentationControllerC", "isFullyPresentableByDrawerTaps"]
+- ["9DrawerKit22PresentationControllerC", "numberOfTapsForFullDrawerPresentation"]
+- ["9DrawerKit22PresentationControllerC", "isDismissableByOutsideDrawerTaps"]
+- ["9DrawerKit22PresentationControllerC", "numberOfTapsForOutsideDrawerDismissal"]
+- ["9DrawerKit22PresentationControllerC", "handleViewConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "drawerBorderConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "drawerShadowConfiguration"]
+provides-dynamic-lookup:
+- "dismissesInStages"
+- "drawerBorderConfiguration"
+- "drawerShadowConfiguration"
+- "durationIsProportionalToDistanceTraveled"
+- "flickSpeedThreshold"
+- "fullExpansionBehaviour"
+- "handleViewConfiguration"
+- "isDismissableByOutsideDrawerTaps"
+- "isDrawerDraggable"
+- "isFullyPresentableByDrawerTaps"
+- "lowerMarkGap"
+- "maximumCornerRadius"
+- "numberOfTapsForFullDrawerPresentation"
+- "numberOfTapsForOutsideDrawerDismissal"
+- "supportsPartialExpansion"
+- "timingCurveProvider"
+- "totalDurationInSeconds"
+- "upperMarkGap"
+depends-top-level:
+- "Bool"
+- "CGFloat"
+- "DrawerBorderConfiguration"
+- "DrawerConfiguration"
+- "DrawerShadowConfiguration"
+- "HandleViewConfiguration"
+- "Int"
+- "PresentationController"
+- "TimeInterval"
+- "UITimingCurveProvider"
+- !private "configuration"
+depends-member:
+- !private ["s7CVarArgP", "configuration"]
+- !private ["s28CustomDebugStringConvertibleP", "configuration"]
+- !private ["s23CustomStringConvertibleP", "configuration"]
+- ["9DrawerKit0A13ConfigurationV", "FullExpansionBehaviour"]
+- !private ["9DrawerKit0A13ConfigurationV", "dismissesInStages"]
+- !private ["9DrawerKit0A13ConfigurationV", "drawerBorderConfiguration"]
+- !private ["9DrawerKit0A13ConfigurationV", "drawerShadowConfiguration"]
+- !private ["9DrawerKit0A13ConfigurationV", "durationIsProportionalToDistanceTraveled"]
+- !private ["9DrawerKit0A13ConfigurationV", "flickSpeedThreshold"]
+- !private ["9DrawerKit0A13ConfigurationV", "fullExpansionBehaviour"]
+- !private ["9DrawerKit0A13ConfigurationV", "handleViewConfiguration"]
+- !private ["9DrawerKit0A13ConfigurationV", "isDismissableByOutsideDrawerTaps"]
+- !private ["9DrawerKit0A13ConfigurationV", "isDrawerDraggable"]
+- !private ["9DrawerKit0A13ConfigurationV", "isFullyPresentableByDrawerTaps"]
+- !private ["9DrawerKit0A13ConfigurationV", "lowerMarkGap"]
+- !private ["9DrawerKit0A13ConfigurationV", "maximumCornerRadius"]
+- !private ["9DrawerKit0A13ConfigurationV", "numberOfTapsForFullDrawerPresentation"]
+- !private ["9DrawerKit0A13ConfigurationV", "numberOfTapsForOutsideDrawerDismissal"]
+- !private ["9DrawerKit0A13ConfigurationV", "supportsPartialExpansion"]
+- !private ["9DrawerKit0A13ConfigurationV", "timingCurveProvider"]
+- !private ["9DrawerKit0A13ConfigurationV", "totalDurationInSeconds"]
+- !private ["9DrawerKit0A13ConfigurationV", "upperMarkGap"]
+- !private ["9DrawerKit0A23PresentationControllingP", "configuration"]
+- ["SQ", "FullExpansionBehaviour"]
+- !private ["SQ", ""]
+- !private ["SQ", "configuration"]
+- !private ["SQ", "dismissesInStages"]
+- !private ["SQ", "drawerBorderConfiguration"]
+- !private ["SQ", "drawerShadowConfiguration"]
+- !private ["SQ", "durationIsProportionalToDistanceTraveled"]
+- !private ["SQ", "flickSpeedThreshold"]
+- !private ["SQ", "fullExpansionBehaviour"]
+- !private ["SQ", "handleViewConfiguration"]
+- !private ["SQ", "isDismissableByOutsideDrawerTaps"]
+- !private ["SQ", "isDrawerDraggable"]
+- !private ["SQ", "isFullyPresentableByDrawerTaps"]
+- !private ["SQ", "lowerMarkGap"]
+- !private ["SQ", "maximumCornerRadius"]
+- !private ["SQ", "numberOfTapsForFullDrawerPresentation"]
+- !private ["SQ", "numberOfTapsForOutsideDrawerDismissal"]
+- !private ["SQ", "supportsPartialExpansion"]
+- !private ["SQ", "timingCurveProvider"]
+- !private ["SQ", "totalDurationInSeconds"]
+- !private ["SQ", "upperMarkGap"]
+- !private ["SH", "configuration"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "DrawerBorderConfiguration"]
+- ["So8NSObjectC", "DrawerConfiguration"]
+- ["So8NSObjectC", "DrawerShadowConfiguration"]
+- ["So8NSObjectC", "HandleViewConfiguration"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "TimeInterval"]
+- ["So8NSObjectC", "UITimingCurveProvider"]
+- !private ["So8NSObjectC", "configuration"]
+- ["So8NSObjectC", "dismissesInStages"]
+- ["So8NSObjectC", "drawerBorderConfiguration"]
+- ["So8NSObjectC", "drawerShadowConfiguration"]
+- ["So8NSObjectC", "durationIsProportionalToDistanceTraveled"]
+- ["So8NSObjectC", "flickSpeedThreshold"]
+- ["So8NSObjectC", "fullExpansionBehaviour"]
+- ["So8NSObjectC", "handleViewConfiguration"]
+- ["So8NSObjectC", "isDismissableByOutsideDrawerTaps"]
+- ["So8NSObjectC", "isDrawerDraggable"]
+- ["So8NSObjectC", "isFullyPresentableByDrawerTaps"]
+- ["So8NSObjectC", "lowerMarkGap"]
+- ["So8NSObjectC", "maximumCornerRadius"]
+- ["So8NSObjectC", "numberOfTapsForFullDrawerPresentation"]
+- ["So8NSObjectC", "numberOfTapsForOutsideDrawerDismissal"]
+- ["So8NSObjectC", "supportsPartialExpansion"]
+- ["So8NSObjectC", "timingCurveProvider"]
+- ["So8NSObjectC", "totalDurationInSeconds"]
+- ["So8NSObjectC", "upperMarkGap"]
+- ["So8NSObjectP", "Bool"]
+- ["So8NSObjectP", "DrawerBorderConfiguration"]
+- ["So8NSObjectP", "DrawerShadowConfiguration"]
+- ["So8NSObjectP", "HandleViewConfiguration"]
+- ["So8NSObjectP", "Int"]
+- ["So8NSObjectP", "TimeInterval"]
+- ["So8NSObjectP", "UITimingCurveProvider"]
+- !private ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "configuration"]
+- ["So8NSObjectP", "dismissesInStages"]
+- ["So8NSObjectP", "drawerBorderConfiguration"]
+- ["So8NSObjectP", "drawerShadowConfiguration"]
+- ["So8NSObjectP", "durationIsProportionalToDistanceTraveled"]
+- ["So8NSObjectP", "flickSpeedThreshold"]
+- ["So8NSObjectP", "fullExpansionBehaviour"]
+- ["So8NSObjectP", "handleViewConfiguration"]
+- ["So8NSObjectP", "isDismissableByOutsideDrawerTaps"]
+- ["So8NSObjectP", "isDrawerDraggable"]
+- ["So8NSObjectP", "isFullyPresentableByDrawerTaps"]
+- ["So8NSObjectP", "lowerMarkGap"]
+- ["So8NSObjectP", "maximumCornerRadius"]
+- ["So8NSObjectP", "numberOfTapsForFullDrawerPresentation"]
+- ["So8NSObjectP", "numberOfTapsForOutsideDrawerDismissal"]
+- ["So8NSObjectP", "supportsPartialExpansion"]
+- ["So8NSObjectP", "timingCurveProvider"]
+- ["So8NSObjectP", "totalDurationInSeconds"]
+- ["So8NSObjectP", "upperMarkGap"]
+- !private ["9DrawerKit33PresentationContainerViewDelegateP", "configuration"]
+- ["9DrawerKit22PresentationControllerC", "Bool"]
+- ["9DrawerKit22PresentationControllerC", "CGFloat"]
+- ["9DrawerKit22PresentationControllerC", "DrawerBorderConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "DrawerConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "DrawerShadowConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "HandleViewConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "Int"]
+- ["9DrawerKit22PresentationControllerC", "TimeInterval"]
+- ["9DrawerKit22PresentationControllerC", "UITimingCurveProvider"]
+- ["9DrawerKit22PresentationControllerC", ""]
+- !private ["9DrawerKit22PresentationControllerC", "configuration"]
+- ["9DrawerKit22PresentationControllerC", "dismissesInStages"]
+- ["9DrawerKit22PresentationControllerC", "drawerBorderConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "drawerShadowConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "durationIsProportionalToDistanceTraveled"]
+- ["9DrawerKit22PresentationControllerC", "flickSpeedThreshold"]
+- ["9DrawerKit22PresentationControllerC", "fullExpansionBehaviour"]
+- ["9DrawerKit22PresentationControllerC", "handleViewConfiguration"]
+- ["9DrawerKit22PresentationControllerC", "isDismissableByOutsideDrawerTaps"]
+- ["9DrawerKit22PresentationControllerC", "isDrawerDraggable"]
+- ["9DrawerKit22PresentationControllerC", "isFullyPresentableByDrawerTaps"]
+- ["9DrawerKit22PresentationControllerC", "lowerMarkGap"]
+- ["9DrawerKit22PresentationControllerC", "maximumCornerRadius"]
+- ["9DrawerKit22PresentationControllerC", "numberOfTapsForFullDrawerPresentation"]
+- ["9DrawerKit22PresentationControllerC", "numberOfTapsForOutsideDrawerDismissal"]
+- ["9DrawerKit22PresentationControllerC", "supportsPartialExpansion"]
+- ["9DrawerKit22PresentationControllerC", "timingCurveProvider"]
+- ["9DrawerKit22PresentationControllerC", "totalDurationInSeconds"]
+- ["9DrawerKit22PresentationControllerC", "upperMarkGap"]
+- ["So21UIAppearanceContainerP", "Bool"]
+- ["So21UIAppearanceContainerP", "DrawerBorderConfiguration"]
+- ["So21UIAppearanceContainerP", "DrawerShadowConfiguration"]
+- ["So21UIAppearanceContainerP", "HandleViewConfiguration"]
+- ["So21UIAppearanceContainerP", "Int"]
+- ["So21UIAppearanceContainerP", "TimeInterval"]
+- ["So21UIAppearanceContainerP", "UITimingCurveProvider"]
+- !private ["So21UIAppearanceContainerP", "configuration"]
+- ["So21UIAppearanceContainerP", "dismissesInStages"]
+- ["So21UIAppearanceContainerP", "drawerBorderConfiguration"]
+- ["So21UIAppearanceContainerP", "drawerShadowConfiguration"]
+- ["So21UIAppearanceContainerP", "durationIsProportionalToDistanceTraveled"]
+- ["So21UIAppearanceContainerP", "flickSpeedThreshold"]
+- ["So21UIAppearanceContainerP", "fullExpansionBehaviour"]
+- ["So21UIAppearanceContainerP", "handleViewConfiguration"]
+- ["So21UIAppearanceContainerP", "isDismissableByOutsideDrawerTaps"]
+- ["So21UIAppearanceContainerP", "isDrawerDraggable"]
+- ["So21UIAppearanceContainerP", "isFullyPresentableByDrawerTaps"]
+- ["So21UIAppearanceContainerP", "lowerMarkGap"]
+- ["So21UIAppearanceContainerP", "maximumCornerRadius"]
+- ["So21UIAppearanceContainerP", "numberOfTapsForFullDrawerPresentation"]
+- ["So21UIAppearanceContainerP", "numberOfTapsForOutsideDrawerDismissal"]
+- ["So21UIAppearanceContainerP", "supportsPartialExpansion"]
+- ["So21UIAppearanceContainerP", "timingCurveProvider"]
+- ["So21UIAppearanceContainerP", "totalDurationInSeconds"]
+- ["So21UIAppearanceContainerP", "upperMarkGap"]
+- ["So18UIContentContainerP", "Bool"]
+- ["So18UIContentContainerP", "DrawerBorderConfiguration"]
+- ["So18UIContentContainerP", "DrawerShadowConfiguration"]
+- ["So18UIContentContainerP", "HandleViewConfiguration"]
+- ["So18UIContentContainerP", "Int"]
+- ["So18UIContentContainerP", "TimeInterval"]
+- ["So18UIContentContainerP", "UITimingCurveProvider"]
+- !private ["So18UIContentContainerP", "configuration"]
+- ["So18UIContentContainerP", "dismissesInStages"]
+- ["So18UIContentContainerP", "drawerBorderConfiguration"]
+- ["So18UIContentContainerP", "drawerShadowConfiguration"]
+- ["So18UIContentContainerP", "durationIsProportionalToDistanceTraveled"]
+- ["So18UIContentContainerP", "flickSpeedThreshold"]
+- ["So18UIContentContainerP", "fullExpansionBehaviour"]
+- ["So18UIContentContainerP", "handleViewConfiguration"]
+- ["So18UIContentContainerP", "isDismissableByOutsideDrawerTaps"]
+- ["So18UIContentContainerP", "isDrawerDraggable"]
+- ["So18UIContentContainerP", "isFullyPresentableByDrawerTaps"]
+- ["So18UIContentContainerP", "lowerMarkGap"]
+- ["So18UIContentContainerP", "maximumCornerRadius"]
+- ["So18UIContentContainerP", "numberOfTapsForFullDrawerPresentation"]
+- ["So18UIContentContainerP", "numberOfTapsForOutsideDrawerDismissal"]
+- ["So18UIContentContainerP", "supportsPartialExpansion"]
+- ["So18UIContentContainerP", "timingCurveProvider"]
+- ["So18UIContentContainerP", "totalDurationInSeconds"]
+- ["So18UIContentContainerP", "upperMarkGap"]
+- ["So18UIFocusEnvironmentP", "Bool"]
+- ["So18UIFocusEnvironmentP", "DrawerBorderConfiguration"]
+- ["So18UIFocusEnvironmentP", "DrawerShadowConfiguration"]
+- ["So18UIFocusEnvironmentP", "HandleViewConfiguration"]
+- ["So18UIFocusEnvironmentP", "Int"]
+- ["So18UIFocusEnvironmentP", "TimeInterval"]
+- ["So18UIFocusEnvironmentP", "UITimingCurveProvider"]
+- !private ["So18UIFocusEnvironmentP", "configuration"]
+- ["So18UIFocusEnvironmentP", "dismissesInStages"]
+- ["So18UIFocusEnvironmentP", "drawerBorderConfiguration"]
+- ["So18UIFocusEnvironmentP", "drawerShadowConfiguration"]
+- ["So18UIFocusEnvironmentP", "durationIsProportionalToDistanceTraveled"]
+- ["So18UIFocusEnvironmentP", "flickSpeedThreshold"]
+- ["So18UIFocusEnvironmentP", "fullExpansionBehaviour"]
+- ["So18UIFocusEnvironmentP", "handleViewConfiguration"]
+- ["So18UIFocusEnvironmentP", "isDismissableByOutsideDrawerTaps"]
+- ["So18UIFocusEnvironmentP", "isDrawerDraggable"]
+- ["So18UIFocusEnvironmentP", "isFullyPresentableByDrawerTaps"]
+- ["So18UIFocusEnvironmentP", "lowerMarkGap"]
+- ["So18UIFocusEnvironmentP", "maximumCornerRadius"]
+- ["So18UIFocusEnvironmentP", "numberOfTapsForFullDrawerPresentation"]
+- ["So18UIFocusEnvironmentP", "numberOfTapsForOutsideDrawerDismissal"]
+- ["So18UIFocusEnvironmentP", "supportsPartialExpansion"]
+- ["So18UIFocusEnvironmentP", "timingCurveProvider"]
+- ["So18UIFocusEnvironmentP", "totalDurationInSeconds"]
+- ["So18UIFocusEnvironmentP", "upperMarkGap"]
+- !private ["So27UIGestureRecognizerDelegateP", "configuration"]
+- ["So27UIGestureRecognizerDelegateP", "dismissesInStages"]
+- ["So27UIGestureRecognizerDelegateP", "drawerBorderConfiguration"]
+- ["So27UIGestureRecognizerDelegateP", "drawerShadowConfiguration"]
+- ["So27UIGestureRecognizerDelegateP", "durationIsProportionalToDistanceTraveled"]
+- ["So27UIGestureRecognizerDelegateP", "flickSpeedThreshold"]
+- ["So27UIGestureRecognizerDelegateP", "fullExpansionBehaviour"]
+- ["So27UIGestureRecognizerDelegateP", "handleViewConfiguration"]
+- ["So27UIGestureRecognizerDelegateP", "isDismissableByOutsideDrawerTaps"]
+- ["So27UIGestureRecognizerDelegateP", "isDrawerDraggable"]
+- ["So27UIGestureRecognizerDelegateP", "isFullyPresentableByDrawerTaps"]
+- ["So27UIGestureRecognizerDelegateP", "lowerMarkGap"]
+- ["So27UIGestureRecognizerDelegateP", "maximumCornerRadius"]
+- ["So27UIGestureRecognizerDelegateP", "numberOfTapsForFullDrawerPresentation"]
+- ["So27UIGestureRecognizerDelegateP", "numberOfTapsForOutsideDrawerDismissal"]
+- ["So27UIGestureRecognizerDelegateP", "supportsPartialExpansion"]
+- ["So27UIGestureRecognizerDelegateP", "timingCurveProvider"]
+- ["So27UIGestureRecognizerDelegateP", "totalDurationInSeconds"]
+- ["So27UIGestureRecognizerDelegateP", "upperMarkGap"]
+- ["So24UIPresentationControllerC", "Bool"]
+- ["So24UIPresentationControllerC", "CGFloat"]
+- ["So24UIPresentationControllerC", "DrawerBorderConfiguration"]
+- ["So24UIPresentationControllerC", "DrawerConfiguration"]
+- ["So24UIPresentationControllerC", "DrawerShadowConfiguration"]
+- ["So24UIPresentationControllerC", "HandleViewConfiguration"]
+- ["So24UIPresentationControllerC", "Int"]
+- ["So24UIPresentationControllerC", "TimeInterval"]
+- ["So24UIPresentationControllerC", "UITimingCurveProvider"]
+- !private ["So24UIPresentationControllerC", "configuration"]
+- ["So24UIPresentationControllerC", "dismissesInStages"]
+- ["So24UIPresentationControllerC", "drawerBorderConfiguration"]
+- ["So24UIPresentationControllerC", "drawerShadowConfiguration"]
+- ["So24UIPresentationControllerC", "durationIsProportionalToDistanceTraveled"]
+- ["So24UIPresentationControllerC", "flickSpeedThreshold"]
+- ["So24UIPresentationControllerC", "fullExpansionBehaviour"]
+- ["So24UIPresentationControllerC", "handleViewConfiguration"]
+- ["So24UIPresentationControllerC", "isDismissableByOutsideDrawerTaps"]
+- ["So24UIPresentationControllerC", "isDrawerDraggable"]
+- ["So24UIPresentationControllerC", "isFullyPresentableByDrawerTaps"]
+- ["So24UIPresentationControllerC", "lowerMarkGap"]
+- ["So24UIPresentationControllerC", "maximumCornerRadius"]
+- ["So24UIPresentationControllerC", "numberOfTapsForFullDrawerPresentation"]
+- ["So24UIPresentationControllerC", "numberOfTapsForOutsideDrawerDismissal"]
+- ["So24UIPresentationControllerC", "supportsPartialExpansion"]
+- ["So24UIPresentationControllerC", "timingCurveProvider"]
+- ["So24UIPresentationControllerC", "totalDurationInSeconds"]
+- ["So24UIPresentationControllerC", "upperMarkGap"]
+- ["So18UITraitEnvironmentP", "Bool"]
+- ["So18UITraitEnvironmentP", "DrawerBorderConfiguration"]
+- ["So18UITraitEnvironmentP", "DrawerShadowConfiguration"]
+- ["So18UITraitEnvironmentP", "HandleViewConfiguration"]
+- ["So18UITraitEnvironmentP", "Int"]
+- ["So18UITraitEnvironmentP", "TimeInterval"]
+- ["So18UITraitEnvironmentP", "UITimingCurveProvider"]
+- !private ["So18UITraitEnvironmentP", "configuration"]
+- ["So18UITraitEnvironmentP", "dismissesInStages"]
+- ["So18UITraitEnvironmentP", "drawerBorderConfiguration"]
+- ["So18UITraitEnvironmentP", "drawerShadowConfiguration"]
+- ["So18UITraitEnvironmentP", "durationIsProportionalToDistanceTraveled"]
+- ["So18UITraitEnvironmentP", "flickSpeedThreshold"]
+- ["So18UITraitEnvironmentP", "fullExpansionBehaviour"]
+- ["So18UITraitEnvironmentP", "handleViewConfiguration"]
+- ["So18UITraitEnvironmentP", "isDismissableByOutsideDrawerTaps"]
+- ["So18UITraitEnvironmentP", "isDrawerDraggable"]
+- ["So18UITraitEnvironmentP", "isFullyPresentableByDrawerTaps"]
+- ["So18UITraitEnvironmentP", "lowerMarkGap"]
+- ["So18UITraitEnvironmentP", "maximumCornerRadius"]
+- ["So18UITraitEnvironmentP", "numberOfTapsForFullDrawerPresentation"]
+- ["So18UITraitEnvironmentP", "numberOfTapsForOutsideDrawerDismissal"]
+- ["So18UITraitEnvironmentP", "supportsPartialExpansion"]
+- ["So18UITraitEnvironmentP", "timingCurveProvider"]
+- ["So18UITraitEnvironmentP", "totalDurationInSeconds"]
+- ["So18UITraitEnvironmentP", "upperMarkGap"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configuration"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "configuration"]
+depends-nominal:
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- "9DrawerKit0A13ConfigurationV"
+- !private "9DrawerKit0A23PresentationControllingP"
+- "SQ"
+- !private "SH"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "9DrawerKit33PresentationContainerViewDelegateP"
+- "9DrawerKit22PresentationControllerC"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So27UIGestureRecognizerDelegateP"
+- "So24UIPresentationControllerC"
+- "So18UITraitEnvironmentP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "65383c9a1cf0590b70d2cffff5110ea8"
