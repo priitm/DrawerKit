@@ -1,0 +1,670 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InteractionController"
+provides-nominal:
+- "9DrawerKit21InteractionControllerC"
+provides-member:
+- ["9DrawerKit21InteractionControllerC", ""]
+- ["9DrawerKit21InteractionControllerC", "startInteractiveTransition"]
+provides-dynamic-lookup:
+- "containerH"
+- "drawerDragGR"
+- "handleDrawerDrag"
+- "isPresentation"
+- "presentedVC"
+- "presentingVC"
+- "removeDrawerDragRecogniser"
+- "setupDrawerDragRecogniser"
+- "startInteractiveTransition"
+depends-top-level:
+- !private "+"
+- !private "/"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "InteractionController"
+- "UIPanGestureRecognizer"
+- "UIPercentDrivenInteractiveTransition"
+- "UIViewController"
+- "UIViewControllerContextTransitioning"
+- !private "cancel"
+- !private "containerH"
+- !private "drawerDragGR"
+- !private "finish"
+- !private "handleDrawerDrag"
+- !private "isPresentation"
+- !private "percentComplete"
+- !private "presentedVC"
+- !private "presentingVC"
+- !private "setupDrawerDragRecogniser"
+- !private "update"
+- !private "wantsInteractiveStart"
+depends-member:
+- !private ["SK", ""]
+- !private ["So15CALayerDelegateP", "addGestureRecognizer"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "removeGestureRecognizer"]
+- !private ["So7CGPointV", "y"]
+- !private ["So7CGPointV", "zero"]
+- !private ["So6CGRectV", "size"]
+- !private ["So6CGSizeV", "height"]
+- !private ["s7CVarArgP", "UIPanGestureRecognizer"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addGestureRecognizer"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "cancel"]
+- !private ["s7CVarArgP", "containerH"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "drawerDragGR"]
+- !private ["s7CVarArgP", "finish"]
+- !private ["s7CVarArgP", "handleDrawerDrag"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isPresentation"]
+- !private ["s7CVarArgP", "percentComplete"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "presentedVC"]
+- !private ["s7CVarArgP", "presentingVC"]
+- !private ["s7CVarArgP", "removeGestureRecognizer"]
+- !private ["s7CVarArgP", "setTranslation"]
+- !private ["s7CVarArgP", "setupDrawerDragRecogniser"]
+- !private ["s7CVarArgP", "startInteractiveTransition"]
+- !private ["s7CVarArgP", "state"]
+- !private ["s7CVarArgP", "translation"]
+- !private ["s7CVarArgP", "update"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "wantsInteractiveStart"]
+- !private ["Sl", ""]
+- !private ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "UIPanGestureRecognizer"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "cancel"]
+- !private ["s28CustomDebugStringConvertibleP", "containerH"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "drawerDragGR"]
+- !private ["s28CustomDebugStringConvertibleP", "finish"]
+- !private ["s28CustomDebugStringConvertibleP", "handleDrawerDrag"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isPresentation"]
+- !private ["s28CustomDebugStringConvertibleP", "percentComplete"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "presentedVC"]
+- !private ["s28CustomDebugStringConvertibleP", "presentingVC"]
+- !private ["s28CustomDebugStringConvertibleP", "removeGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "setTranslation"]
+- !private ["s28CustomDebugStringConvertibleP", "setupDrawerDragRecogniser"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "startInteractiveTransition"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- !private ["s28CustomDebugStringConvertibleP", "translation"]
+- !private ["s28CustomDebugStringConvertibleP", "update"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "wantsInteractiveStart"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s28CustomDebugStringConvertibleP", "zero"]
+- !private ["s17CustomReflectableP", "addGestureRecognizer"]
+- !private ["s17CustomReflectableP", "dismiss"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "present"]
+- !private ["s17CustomReflectableP", "removeGestureRecognizer"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "view"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s17CustomReflectableP", "zero"]
+- !private ["s23CustomStringConvertibleP", "UIPanGestureRecognizer"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "cancel"]
+- !private ["s23CustomStringConvertibleP", "containerH"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "drawerDragGR"]
+- !private ["s23CustomStringConvertibleP", "finish"]
+- !private ["s23CustomStringConvertibleP", "handleDrawerDrag"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isPresentation"]
+- !private ["s23CustomStringConvertibleP", "percentComplete"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "presentedVC"]
+- !private ["s23CustomStringConvertibleP", "presentingVC"]
+- !private ["s23CustomStringConvertibleP", "removeGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "setTranslation"]
+- !private ["s23CustomStringConvertibleP", "setupDrawerDragRecogniser"]
+- !private ["s23CustomStringConvertibleP", "startInteractiveTransition"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- !private ["s23CustomStringConvertibleP", "translation"]
+- !private ["s23CustomStringConvertibleP", "update"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "wantsInteractiveStart"]
+- !private ["Se", "addGestureRecognizer"]
+- !private ["Se", "dismiss"]
+- !private ["Se", "height"]
+- !private ["Se", "present"]
+- !private ["Se", "removeGestureRecognizer"]
+- !private ["Se", "size"]
+- !private ["Se", "view"]
+- !private ["Se", "y"]
+- !private ["Se", "zero"]
+- !private ["SE", "addGestureRecognizer"]
+- !private ["SE", "dismiss"]
+- !private ["SE", "height"]
+- !private ["SE", "present"]
+- !private ["SE", "removeGestureRecognizer"]
+- !private ["SE", "size"]
+- !private ["SE", "view"]
+- !private ["SE", "y"]
+- !private ["SE", "zero"]
+- !private ["SQ", "UIPanGestureRecognizer"]
+- ["SQ", ""]
+- !private ["SQ", "addGestureRecognizer"]
+- ["SQ", "began"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "cancel"]
+- ["SQ", "cancelled"]
+- ["SQ", "changed"]
+- !private ["SQ", "containerH"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "drawerDragGR"]
+- ["SQ", "ended"]
+- !private ["SQ", "finish"]
+- !private ["SQ", "handleDrawerDrag"]
+- !private ["SQ", "height"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isPresentation"]
+- !private ["SQ", "percentComplete"]
+- !private ["SQ", "present"]
+- !private ["SQ", "presentedVC"]
+- !private ["SQ", "presentingVC"]
+- !private ["SQ", "removeGestureRecognizer"]
+- !private ["SQ", "setTranslation"]
+- !private ["SQ", "setupDrawerDragRecogniser"]
+- !private ["SQ", "size"]
+- !private ["SQ", "startInteractiveTransition"]
+- !private ["SQ", "state"]
+- !private ["SQ", "translation"]
+- !private ["SQ", "update"]
+- !private ["SQ", "view"]
+- !private ["SQ", "wantsInteractiveStart"]
+- !private ["SQ", "y"]
+- !private ["SQ", "zero"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s27ExpressibleByIntegerLiteralP", "IntegerLiteralType"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "addGestureRecognizer"]
+- !private ["s23ExpressibleByNilLiteralP", "dismiss"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "present"]
+- !private ["s23ExpressibleByNilLiteralP", "removeGestureRecognizer"]
+- !private ["s23ExpressibleByNilLiteralP", "view"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SH", "UIPanGestureRecognizer"]
+- ["SH", ""]
+- !private ["SH", "addGestureRecognizer"]
+- ["SH", "began"]
+- !private ["SH", "bounds"]
+- !private ["SH", "cancel"]
+- ["SH", "cancelled"]
+- ["SH", "changed"]
+- !private ["SH", "containerH"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "drawerDragGR"]
+- ["SH", "ended"]
+- !private ["SH", "finish"]
+- !private ["SH", "handleDrawerDrag"]
+- !private ["SH", "init"]
+- !private ["SH", "isPresentation"]
+- !private ["SH", "percentComplete"]
+- !private ["SH", "present"]
+- !private ["SH", "presentedVC"]
+- !private ["SH", "presentingVC"]
+- !private ["SH", "removeGestureRecognizer"]
+- !private ["SH", "setTranslation"]
+- !private ["SH", "setupDrawerDragRecogniser"]
+- !private ["SH", "startInteractiveTransition"]
+- !private ["SH", "state"]
+- !private ["SH", "translation"]
+- !private ["SH", "update"]
+- !private ["SH", "view"]
+- !private ["SH", "wantsInteractiveStart"]
+- ["9DrawerKit21InteractionControllerC", "Bool"]
+- ["9DrawerKit21InteractionControllerC", "CGFloat"]
+- ["9DrawerKit21InteractionControllerC", "UIPanGestureRecognizer"]
+- ["9DrawerKit21InteractionControllerC", "UIViewController"]
+- ["9DrawerKit21InteractionControllerC", "UIViewControllerContextTransitioning"]
+- ["9DrawerKit21InteractionControllerC", ""]
+- !private ["9DrawerKit21InteractionControllerC", "cancel"]
+- !private ["9DrawerKit21InteractionControllerC", "containerH"]
+- ["9DrawerKit21InteractionControllerC", "deinit"]
+- !private ["9DrawerKit21InteractionControllerC", "drawerDragGR"]
+- !private ["9DrawerKit21InteractionControllerC", "finish"]
+- !private ["9DrawerKit21InteractionControllerC", "handleDrawerDrag"]
+- ["9DrawerKit21InteractionControllerC", "init"]
+- !private ["9DrawerKit21InteractionControllerC", "isPresentation"]
+- !private ["9DrawerKit21InteractionControllerC", "percentComplete"]
+- !private ["9DrawerKit21InteractionControllerC", "presentedVC"]
+- !private ["9DrawerKit21InteractionControllerC", "presentingVC"]
+- !private ["9DrawerKit21InteractionControllerC", "removeDrawerDragRecogniser"]
+- !private ["9DrawerKit21InteractionControllerC", "setupDrawerDragRecogniser"]
+- ["9DrawerKit21InteractionControllerC", "startInteractiveTransition"]
+- !private ["9DrawerKit21InteractionControllerC", "update"]
+- !private ["9DrawerKit21InteractionControllerC", "wantsInteractiveStart"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addGestureRecognizer"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "removeGestureRecognizer"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "UIPanGestureRecognizer"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "UIViewControllerContextTransitioning"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "addGestureRecognizer"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "cancel"]
+- !private ["So8NSObjectC", "cancelInteractiveTransition"]
+- ["So8NSObjectC", "containerH"]
+- !private ["So8NSObjectC", "dismiss"]
+- !private ["So8NSObjectC", "dismissViewControllerAnimated"]
+- ["So8NSObjectC", "drawerDragGR"]
+- !private ["So8NSObjectC", "finish"]
+- !private ["So8NSObjectC", "finishInteractiveTransition"]
+- ["So8NSObjectC", "handleDrawerDrag"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isPresentation"]
+- !private ["So8NSObjectC", "percentComplete"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "presentViewController"]
+- ["So8NSObjectC", "presentedVC"]
+- ["So8NSObjectC", "presentingVC"]
+- ["So8NSObjectC", "removeDrawerDragRecogniser"]
+- !private ["So8NSObjectC", "removeGestureRecognizer"]
+- !private ["So8NSObjectC", "setTranslation"]
+- ["So8NSObjectC", "setupDrawerDragRecogniser"]
+- ["So8NSObjectC", "startInteractiveTransition"]
+- !private ["So8NSObjectC", "state"]
+- !private ["So8NSObjectC", "translation"]
+- !private ["So8NSObjectC", "translationInView"]
+- !private ["So8NSObjectC", "update"]
+- !private ["So8NSObjectC", "updateInteractiveTransition"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So8NSObjectC", "wantsInteractiveStart"]
+- ["So8NSObjectP", "Bool"]
+- ["So8NSObjectP", "CGFloat"]
+- ["So8NSObjectP", "UIPanGestureRecognizer"]
+- ["So8NSObjectP", "UIViewController"]
+- ["So8NSObjectP", "UIViewControllerContextTransitioning"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addGestureRecognizer"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "cancel"]
+- !private ["So8NSObjectP", "cancelInteractiveTransition"]
+- ["So8NSObjectP", "containerH"]
+- !private ["So8NSObjectP", "containerView"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "dismissViewControllerAnimated"]
+- ["So8NSObjectP", "drawerDragGR"]
+- !private ["So8NSObjectP", "finish"]
+- !private ["So8NSObjectP", "finishInteractiveTransition"]
+- ["So8NSObjectP", "handleDrawerDrag"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "isPresentation"]
+- !private ["So8NSObjectP", "percentComplete"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "presentViewController"]
+- ["So8NSObjectP", "presentedVC"]
+- ["So8NSObjectP", "presentingVC"]
+- ["So8NSObjectP", "removeDrawerDragRecogniser"]
+- !private ["So8NSObjectP", "removeGestureRecognizer"]
+- !private ["So8NSObjectP", "setTranslation"]
+- ["So8NSObjectP", "setupDrawerDragRecogniser"]
+- ["So8NSObjectP", "startInteractiveTransition"]
+- !private ["So8NSObjectP", "state"]
+- !private ["So8NSObjectP", "translation"]
+- !private ["So8NSObjectP", "translationInView"]
+- !private ["So8NSObjectP", "update"]
+- !private ["So8NSObjectP", "updateInteractiveTransition"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "wantsInteractiveStart"]
+- !private ["Sq", "addGestureRecognizer"]
+- !private ["Sq", "dismiss"]
+- !private ["Sq", "present"]
+- !private ["Sq", "removeGestureRecognizer"]
+- !private ["Sq", "view"]
+- ["SY", "began"]
+- ["SY", "cancelled"]
+- ["SY", "changed"]
+- ["SY", "ended"]
+- !private ["ST", ""]
+- ["So24UIGestureRecognizerStateV", "began"]
+- ["So24UIGestureRecognizerStateV", "cancelled"]
+- ["So24UIGestureRecognizerStateV", "changed"]
+- ["So24UIGestureRecognizerStateV", "ended"]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "addGestureRecognizer"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "removeGestureRecognizer"]
+- !private ["So12UIAppearanceP", "addGestureRecognizer"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "removeGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "addGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "removeGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So17UICoordinateSpaceP", "addGestureRecognizer"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "removeGestureRecognizer"]
+- !private ["So13UIDynamicItemP", "addGestureRecognizer"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "removeGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "removeGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So11UIFocusItemP", "addGestureRecognizer"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "removeGestureRecognizer"]
+- !private ["So20UIFocusItemContainerP", "addGestureRecognizer"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "removeGestureRecognizer"]
+- ["So19UIGestureRecognizerC", ""]
+- !private ["So19UIGestureRecognizerC", "init"]
+- !private ["So19UIGestureRecognizerC", "setTranslation"]
+- !private ["So19UIGestureRecognizerC", "state"]
+- !private ["So19UIGestureRecognizerC", "translation"]
+- !private ["So19UIGestureRecognizerC", "translationInView"]
+- !private ["So19UIGestureRecognizerC", "view"]
+- !private ["So24UILargeContentViewerItemP", "addGestureRecognizer"]
+- !private ["So24UILargeContentViewerItemP", "bounds"]
+- !private ["So24UILargeContentViewerItemP", "removeGestureRecognizer"]
+- !private ["So22UIPanGestureRecognizerC", "init"]
+- !private ["So22UIPanGestureRecognizerC", "setTranslation"]
+- !private ["So22UIPanGestureRecognizerC", "state"]
+- !private ["So22UIPanGestureRecognizerC", "translation"]
+- !private ["So22UIPanGestureRecognizerC", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismissViewControllerAnimated"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "presentViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "removeGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "Bool"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "CGFloat"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "UIPanGestureRecognizer"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "UIViewController"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "UIViewControllerContextTransitioning"]
+- ["So36UIPercentDrivenInteractiveTransitionC", ""]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "cancel"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "containerH"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "drawerDragGR"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "finish"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "handleDrawerDrag"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "init"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "isPresentation"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "percentComplete"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "presentedVC"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "presentingVC"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "removeDrawerDragRecogniser"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "setupDrawerDragRecogniser"]
+- ["So36UIPercentDrivenInteractiveTransitionC", "startInteractiveTransition"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "update"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "wantsInteractiveStart"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "addGestureRecognizer"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "dismiss"]
+- !private ["So11UIResponderC", "dismissViewControllerAnimated"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "presentViewController"]
+- !private ["So11UIResponderC", "removeGestureRecognizer"]
+- !private ["So11UIResponderC", "view"]
+- !private ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "dismissViewControllerAnimated"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "presentViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "removeGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So18UITraitEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "removeGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addGestureRecognizer"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "dismissViewControllerAnimated"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "presentViewController"]
+- !private ["So23UIUserActivityRestoringP", "removeGestureRecognizer"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So6UIViewC", "addGestureRecognizer"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "removeGestureRecognizer"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "view"]
+- !private ["So36UIViewControllerContextTransitioningP", "containerView"]
+- ["So40UIViewControllerInteractiveTransitioningP", "Bool"]
+- ["So40UIViewControllerInteractiveTransitioningP", "CGFloat"]
+- ["So40UIViewControllerInteractiveTransitioningP", "UIPanGestureRecognizer"]
+- ["So40UIViewControllerInteractiveTransitioningP", "UIViewController"]
+- ["So40UIViewControllerInteractiveTransitioningP", "UIViewControllerContextTransitioning"]
+- ["So40UIViewControllerInteractiveTransitioningP", ""]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "cancel"]
+- ["So40UIViewControllerInteractiveTransitioningP", "containerH"]
+- ["So40UIViewControllerInteractiveTransitioningP", "drawerDragGR"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "finish"]
+- ["So40UIViewControllerInteractiveTransitioningP", "handleDrawerDrag"]
+- ["So40UIViewControllerInteractiveTransitioningP", "init"]
+- ["So40UIViewControllerInteractiveTransitioningP", "isPresentation"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "percentComplete"]
+- ["So40UIViewControllerInteractiveTransitioningP", "presentedVC"]
+- ["So40UIViewControllerInteractiveTransitioningP", "presentingVC"]
+- ["So40UIViewControllerInteractiveTransitioningP", "removeDrawerDragRecogniser"]
+- ["So40UIViewControllerInteractiveTransitioningP", "setupDrawerDragRecogniser"]
+- ["So40UIViewControllerInteractiveTransitioningP", "startInteractiveTransition"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "update"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "wantsInteractiveStart"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "height"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "size"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "y"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIPanGestureRecognizer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cancel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "containerH"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "drawerDragGR"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "finish"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "handleDrawerDrag"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isPresentation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "percentComplete"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentedVC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentingVC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTranslation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setupDrawerDragRecogniser"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startInteractiveTransition"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "translation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "update"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "wantsInteractiveStart"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIPanGestureRecognizer"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addGestureRecognizer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bounds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cancel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "containerH"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dismiss"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "drawerDragGR"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "finish"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "handleDrawerDrag"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isPresentation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "percentComplete"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "present"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentedVC"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentingVC"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "removeGestureRecognizer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setTranslation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setupDrawerDragRecogniser"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "startInteractiveTransition"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "state"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "translation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "update"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "view"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "wantsInteractiveStart"]
+- !private ["s21_ObjectiveCBridgeableP", "addGestureRecognizer"]
+- !private ["s21_ObjectiveCBridgeableP", "dismiss"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "present"]
+- !private ["s21_ObjectiveCBridgeableP", "removeGestureRecognizer"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "view"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- !private ["s21_ObjectiveCBridgeableP", "zero"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addGestureRecognizer"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "removeGestureRecognizer"]
+depends-nominal:
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- !private "So7CGPointV"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "9DrawerKit21InteractionControllerC"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "SY"
+- !private "ST"
+- "So24UIGestureRecognizerStateV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So19UIGestureRecognizerC"
+- !private "So24UILargeContentViewerItemP"
+- !private "So22UIPanGestureRecognizerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So36UIPercentDrivenInteractiveTransitionC"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "So16UIViewControllerC"
+- !private "So36UIViewControllerContextTransitioningP"
+- "So40UIViewControllerInteractiveTransitioningP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e420bab7824a10d6f29958a9c3e361f7"

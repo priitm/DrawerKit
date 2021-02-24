@@ -1,0 +1,294 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DrawerConfiguration"
+- "=="
+- "=="
+provides-nominal:
+- "9DrawerKit0A13ConfigurationV"
+- "9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO"
+- "9DrawerKit0A13ConfigurationV21CornerAnimationOptionO"
+provides-member:
+- ["9DrawerKit0A13ConfigurationV", ""]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", ""]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- "<<"
+- "=="
+- !private "==="
+- !private ">"
+- "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CGFloat"
+- "CornerAnimationOption"
+- "DrawerBorderConfiguration"
+- "DrawerConfiguration"
+- !private "DrawerGeometry"
+- "DrawerShadowConfiguration"
+- "DrawerState"
+- "Equatable"
+- "FloatLiteralType"
+- "FullExpansionBehaviour"
+- "HandleViewConfiguration"
+- "Int"
+- "IntegerLiteralType"
+- "PassthroughOptions"
+- "TernaryPrecedence"
+- "TimeInterval"
+- "UISpringTimingParameters"
+- "UITimingCurveProvider"
+- !private "max"
+depends-member:
+- ["s18AdditiveArithmeticP", ""]
+- !private ["SK", ""]
+- ["Sz", ""]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", ""]
+- ["SL", ""]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", "=="]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", ""]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", "__derived_enum_equals"]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", "_rawHashValue"]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", "alwaysShowBelowStatusBar"]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", "hash"]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", "hashValue"]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", "maximumAtPartialY"]
+- ["9DrawerKit0A13ConfigurationV21CornerAnimationOptionO", "none"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["9DrawerKit0A19BorderConfigurationV", ""]
+- ["9DrawerKit0A13ConfigurationV", "=="]
+- ["9DrawerKit0A13ConfigurationV", "Bool"]
+- ["9DrawerKit0A13ConfigurationV", "CGFloat"]
+- ["9DrawerKit0A13ConfigurationV", "CornerAnimationOption"]
+- ["9DrawerKit0A13ConfigurationV", "DrawerBorderConfiguration"]
+- ["9DrawerKit0A13ConfigurationV", "DrawerConfiguration"]
+- !private ["9DrawerKit0A13ConfigurationV", "DrawerGeometry"]
+- ["9DrawerKit0A13ConfigurationV", "DrawerShadowConfiguration"]
+- ["9DrawerKit0A13ConfigurationV", "DrawerState"]
+- ["9DrawerKit0A13ConfigurationV", "Equatable"]
+- ["9DrawerKit0A13ConfigurationV", "FullExpansionBehaviour"]
+- ["9DrawerKit0A13ConfigurationV", "HandleViewConfiguration"]
+- ["9DrawerKit0A13ConfigurationV", "Int"]
+- ["9DrawerKit0A13ConfigurationV", "PassthroughOptions"]
+- ["9DrawerKit0A13ConfigurationV", "TimeInterval"]
+- !private ["9DrawerKit0A13ConfigurationV", "UISpringTimingParameters"]
+- ["9DrawerKit0A13ConfigurationV", "UITimingCurveProvider"]
+- ["9DrawerKit0A13ConfigurationV", ""]
+- ["9DrawerKit0A13ConfigurationV", "cornerAnimationOption"]
+- ["9DrawerKit0A13ConfigurationV", "dismissesInStages"]
+- ["9DrawerKit0A13ConfigurationV", "drawerBorderConfiguration"]
+- ["9DrawerKit0A13ConfigurationV", "drawerShadowConfiguration"]
+- ["9DrawerKit0A13ConfigurationV", "durationIsProportionalToDistanceTraveled"]
+- ["9DrawerKit0A13ConfigurationV", "flickSpeedThreshold"]
+- ["9DrawerKit0A13ConfigurationV", "fullExpansionBehaviour"]
+- ["9DrawerKit0A13ConfigurationV", "handleViewConfiguration"]
+- ["9DrawerKit0A13ConfigurationV", "init"]
+- ["9DrawerKit0A13ConfigurationV", "initialState"]
+- ["9DrawerKit0A13ConfigurationV", "isDismissableByOutsideDrawerTaps"]
+- ["9DrawerKit0A13ConfigurationV", "isDrawerDraggable"]
+- ["9DrawerKit0A13ConfigurationV", "isFullyPresentableByDrawerTaps"]
+- ["9DrawerKit0A13ConfigurationV", "lowerMarkGap"]
+- !private ["9DrawerKit0A13ConfigurationV", "max"]
+- ["9DrawerKit0A13ConfigurationV", "maximumCornerRadius"]
+- ["9DrawerKit0A13ConfigurationV", "numberOfTapsForFullDrawerPresentation"]
+- ["9DrawerKit0A13ConfigurationV", "numberOfTapsForOutsideDrawerDismissal"]
+- ["9DrawerKit0A13ConfigurationV", "passthroughTouchesInStates"]
+- ["9DrawerKit0A13ConfigurationV", "supportsPartialExpansion"]
+- ["9DrawerKit0A13ConfigurationV", "timingCurveProvider"]
+- ["9DrawerKit0A13ConfigurationV", "totalDurationInSeconds"]
+- ["9DrawerKit0A13ConfigurationV", "upperMarkGap"]
+- !private ["9DrawerKit0A8GeometryV", "statusBarHeight"]
+- ["9DrawerKit0A19ShadowConfigurationV", ""]
+- ["9DrawerKit0A5StateO", ""]
+- ["SQ", "=="]
+- !private ["SQ", "DrawerGeometry"]
+- ["SQ", "FullExpansionBehaviour"]
+- !private ["SQ", "HandleViewConfiguration"]
+- !private ["SQ", "UISpringTimingParameters"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "collapsed"]
+- !private ["SQ", "cornerAnimationOption"]
+- ["SQ", "coversFullScreen"]
+- !private ["SQ", "dismissesInStages"]
+- ["SQ", "doesNotCoverStatusBar"]
+- !private ["SQ", "drawerBorderConfiguration"]
+- !private ["SQ", "drawerShadowConfiguration"]
+- !private ["SQ", "durationIsProportionalToDistanceTraveled"]
+- !private ["SQ", "flickSpeedThreshold"]
+- !private ["SQ", "fullExpansionBehaviour"]
+- !private ["SQ", "handleViewConfiguration"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "initialState"]
+- !private ["SQ", "isDismissableByOutsideDrawerTaps"]
+- !private ["SQ", "isDrawerDraggable"]
+- !private ["SQ", "isFullyPresentableByDrawerTaps"]
+- ["SQ", "leavesCustomGap"]
+- !private ["SQ", "lowerMarkGap"]
+- !private ["SQ", "max"]
+- !private ["SQ", "maximumAtPartialY"]
+- !private ["SQ", "maximumCornerRadius"]
+- !private ["SQ", "numberOfTapsForFullDrawerPresentation"]
+- !private ["SQ", "numberOfTapsForOutsideDrawerDismissal"]
+- !private ["SQ", "partiallyExpanded"]
+- !private ["SQ", "passthroughTouchesInStates"]
+- !private ["SQ", "statusBarHeight"]
+- !private ["SQ", "supportsPartialExpansion"]
+- !private ["SQ", "timingCurveProvider"]
+- !private ["SQ", "totalDurationInSeconds"]
+- !private ["SQ", "upperMarkGap"]
+- ["s25ExpressibleByArrayLiteralP", "Element"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "collapsed"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "partiallyExpanded"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s27ExpressibleByIntegerLiteralP", "IntegerLiteralType"]
+- ["s27ExpressibleByIntegerLiteralP", ""]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "=="]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "Bool"]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "CGFloat"]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "DrawerConfiguration"]
+- !private ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "DrawerGeometry"]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", ""]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "coversFullScreen"]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "doesNotCoverStatusBar"]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "drawerFullY"]
+- ["9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO", "leavesCustomGap"]
+- ["9DrawerKit23HandleViewConfigurationV", ""]
+- !private ["9DrawerKit23HandleViewConfigurationV", "init"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "init"]
+- !private ["SH", "maximumAtPartialY"]
+- !private ["s6HasherV", "combine"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectP", "init"]
+- ["Sj", ""]
+- ["s9OptionSetP", "RawValue"]
+- !private ["s9OptionSetP", "collapsed"]
+- !private ["s9OptionSetP", "partiallyExpanded"]
+- ["9DrawerKit18PassthroughOptionsV", ""]
+- !private ["9DrawerKit18PassthroughOptionsV", "collapsed"]
+- !private ["9DrawerKit18PassthroughOptionsV", "partiallyExpanded"]
+- !private ["SY", ""]
+- !private ["SY", "collapsed"]
+- !private ["SY", "partiallyExpanded"]
+- ["ST", "Element"]
+- !private ["ST", ""]
+- !private ["s10SetAlgebraP", ""]
+- !private ["s10SetAlgebraP", "collapsed"]
+- !private ["s10SetAlgebraP", "partiallyExpanded"]
+- ["Sx", ""]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["So24UISpringTimingParametersC", "init"]
+- !private ["So21UITimingCurveProviderP", "init"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- !private "SK"
+- "Sz"
+- !private "s7CVarArgP"
+- !private "Sl"
+- "SL"
+- "9DrawerKit0A13ConfigurationV21CornerAnimationOptionO"
+- !private "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "9DrawerKit0A19BorderConfigurationV"
+- "9DrawerKit0A13ConfigurationV"
+- !private "9DrawerKit0A8GeometryV"
+- "9DrawerKit0A19ShadowConfigurationV"
+- "9DrawerKit0A5StateO"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "9DrawerKit0A13ConfigurationV22FullExpansionBehaviourO"
+- "9DrawerKit23HandleViewConfigurationV"
+- "SH"
+- !private "s6HasherV"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- "Sj"
+- "s9OptionSetP"
+- "9DrawerKit18PassthroughOptionsV"
+- !private "SY"
+- "ST"
+- !private "s10SetAlgebraP"
+- "Sx"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So24UISpringTimingParametersC"
+- !private "So21UITimingCurveProviderP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5c4da364b4dd7c96eb9278d444926c64"
