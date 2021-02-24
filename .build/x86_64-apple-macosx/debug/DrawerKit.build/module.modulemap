@@ -1,4 +1,0 @@
-module DrawerKit {
-    header "/Users/priit/Projects/DrawerKit/.build/x86_64-apple-macosx/debug/DrawerKit.build/DrawerKit-Swift.h"
-    requires objc
-}
